@@ -142,7 +142,7 @@ header{
     flex-wrap: wrap;
 }
 
-.contenedor-galeria img{
+.img-galeria{
     object-fit: cover;
     width: 30%;
     display: block;
@@ -171,7 +171,7 @@ header{
 
 .agregar-imagen{
     object-fit: cover;
-    width: 60%;
+    height: 80%;
     border-radius: 10px;
     transform: scale(0);
     transition: transform .3s .2s;
@@ -182,7 +182,7 @@ header{
 
 }
 
-.cose{
+.close{
     position: absolute;
     top: 15px;
     right: 15px;
