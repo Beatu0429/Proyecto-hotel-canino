@@ -1,4 +1,4 @@
-window.addEventListener{"load", ()=> {
+window.addEventListener("load", ()=> {
     const hamburguer = document.querySelector(".hamburger");
     const menu = document.querySelector(".menu-navegacion");
     
@@ -14,5 +14,5 @@ window.addEventListener{"load", ()=> {
         }
     })
 
-}}
+})
 
